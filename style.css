@@ -1,0 +1,72 @@
+body {
+   
+    background-image: url("https://res.cloudinary.com/chimeziesolomon/image/upload/v1586162300/Group_10_pxmunm.svg");
+    background-repeat: no-repeat;
+    height: 103px;
+    object-fit: contain;
+    color: cornflowerblue;
+    padding: 0px;
+    
+}
+.nav-brand {
+    text-indent: -999999px;
+    background: url("https://res.cloudinary.com/chimeziesolomon/image/upload/v1586094312/Abutto_u3pr3r.svg");
+    background-repeat: no-repeat;
+    margin-right: 20px;
+
+}
+
+
+#navbarNavAltMarkup {
+    color: lightskyblue;   
+}
+
+.header {
+    background: url("https://res.cloudinary.com/chimeziesolomon/image/upload/v1586094327/logo_image_ypwrob.svg");
+    background-repeat: no-repeat;
+    top: 20%;
+}
+.linkMe {
+    margin-left: 20px;
+    margin-top: 420px;
+
+}
+.hero {
+    background-image: url('https://res.cloudinary.com/chimeziesolomon/image/upload/v1586162335/logo_image_yciaxq.svg');
+    height: 900px;
+    width: 900px;
+    padding-top: 70%;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    float: right;
+}
+.linkMe > img {
+    width: 120px;
+    padding-top: 80px;
+}
+.linkMe > button {
+    border-radius: 30px;
+}
+
+   
+ .navbar .form .register {
+     list-style: none;
+     padding-left: 2%;
+     background-color:  #3750B2;
+     border-right: 4px;
+     border-radius: 50px;
+     transition: all0.3s ease 0s;
+     margin-right: 7px;
+ }   
+ .navbar .form .login {
+     list-style: none;
+     padding: 0px 1px;
+     background:  #3750B2;
+     border-left: 4px;
+     border-radius: 50px;
+     transition: all0.3s ease 0s;
+ }
+ .navbar .nav-item {
+     margin-left: 30px;
+ }
+ 
